@@ -1,2 +1,2 @@
 # GithubActions
-A repo created to setup Github Actions
+A repository created to setup GitHub Actions
