@@ -3,6 +3,7 @@ def isNumberOddOrEven(number):
         print("Number is even.")
     else:
         print("Number is odd.")
+        
 
 input_number = int(input("Enter number to check: "))
 
