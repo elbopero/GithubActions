@@ -4,6 +4,8 @@ def isNumberOddOrEven(number):
     else:
         print("Number is odd.")
 
+
 input_number = int(input("Enter number to check: "))
 
 isNumberOddOrEven(input_number)
+
