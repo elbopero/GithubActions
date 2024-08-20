@@ -6,6 +6,4 @@ def isNumberOddOrEven(number):
 
 
 input_number = int(input("Enter number to check: "))
-
 isNumberOddOrEven(input_number)
-
