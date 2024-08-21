@@ -7,3 +7,4 @@ def isNumberOddOrEven(number):
 
 isNumberOddOrEven(10)
 isNumberOddOrEven(15)
+isNumberOddOrEven(18)
